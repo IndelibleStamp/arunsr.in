@@ -25,10 +25,12 @@ Here are my notes on various topics.
   * `Other languages`_
   * `Other study notes`_
 
-
+- `Git`_
+  
 .. _Linux: linux
 .. _Programming: programming
- 
+.. _Git: git
+
 .. _General Notes: general-linux
 .. _Systemd: systemd
 .. _Package Management: package-management
