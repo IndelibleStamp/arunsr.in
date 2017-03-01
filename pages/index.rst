@@ -20,6 +20,11 @@ Here are my notes on various topics.
   * `Learnings/Notes`_
 
 - `Programming`_
+  
+  * `Python`_
+  * `Other languages`_
+  * `Other study notes`_
+
 
 .. _Linux: linux
 .. _Programming: programming
@@ -29,3 +34,8 @@ Here are my notes on various topics.
 .. _Package Management: package-management
 .. _Databases: databases
 .. _Learnings/Notes: learnings-notes
+
+.. _Python: python
+.. _Other languages: other-languages
+.. _Other study notes: other-study-notes
+
