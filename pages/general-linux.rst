@@ -245,13 +245,13 @@ Fix for xargs errors when filenames contain spaces
 --------------------------------------------------
 
 -  ``find`` has a print0 option that uses null characters instead of
-   :raw-latex:`\n`as separators.
+   ``\n``as separators.
 -  ``xargs`` has a -0 option that uses the same separator when working
    on the args. So:
 
 .. code:: bash
 
-          find . -name -print0 \| xargs -0 ls -l
+          find . -name -print0 | xargs -0 ls -l
 
 Bash faster navigation with cdpath
 ----------------------------------
@@ -287,7 +287,7 @@ File formatting, wrapping etc
 
 .. code:: bash
 
-          cat <some-verbose-output> \| fold -70
+          cat <some-verbose-output> | fold -70
 
 -  ``fold -s`` folds at whitespace
 

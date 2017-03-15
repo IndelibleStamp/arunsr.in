@@ -26,10 +26,19 @@ Here are my notes on various topics.
   * `Other study notes`_
 
 - `Git`_
-  
+
+- `Security`_
+
+- `Networking`_
+
+- `Editors`_
+
 .. _Linux: linux
 .. _Programming: programming
 .. _Git: git
+.. _Security: security
+.. _Networking: networking
+.. _Editors: editors
 
 .. _General Notes: general-linux
 .. _Systemd: systemd
