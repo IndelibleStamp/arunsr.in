@@ -73,3 +73,12 @@ For example:
     Connection to erdos 22 port [tcp/ssh] succeeded!
     bash-3.2 ~$ 
 
+Force NTP sync
+==============
+
+.. code:: bash
+
+   sudo systemctl stop ntpd
+   sudo ntpdate -s time.nist.gov # or whatever ntp server you want to sync to
+   sudo systemctl start ntpd
+

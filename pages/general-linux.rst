@@ -245,7 +245,7 @@ Fix for xargs errors when filenames contain spaces
 --------------------------------------------------
 
 -  ``find`` has a print0 option that uses null characters instead of
-   ``\n``as separators.
+   \\n as separators.
 -  ``xargs`` has a -0 option that uses the same separator when working
    on the args. So:
 
